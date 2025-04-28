@@ -70,6 +70,10 @@ section {
     align-content: center;
 
 }
+.img-fluid{
+    height: 250px;
+
+}
 
 .display-4 {
     text-shadow: -5px 5px var(--laranja-claro);
